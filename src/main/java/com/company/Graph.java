@@ -3,6 +3,12 @@ package com.company;// Java program to implement Graph
 
 import java.util.*;
 
+/**
+ * this class build the graph using a generic type
+ * @param <T>
+ */
+
+
 class Graph<T> {
 
 
